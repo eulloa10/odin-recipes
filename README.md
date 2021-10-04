@@ -1,5 +1,5 @@
 # Odin Recipes
-### This project involved creating a website with three recipe webpages using basic html elements including:
+### This project involved creating a website with three recipe webpages using basic HTML elements including:
 - header elements
 - image elements
 - title elements
